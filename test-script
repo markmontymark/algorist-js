@@ -1,0 +1,79 @@
+
+# test script for "Programming Challenges" programs
+
+./distance.js | diff - datafiles/distance-out
+#./war.js < datafiles/war-in | diff - datafiles/war-out
+#./name.js < datafiles/name-in | diff - datafiles/name-out
+#./sorting.js | diff - datafiles/sorting-out
+#./polly.js < datafiles/polly-in | diff - datafiles/polly-out
+#./bignum.js < datafiles/bignum-in | diff - datafiles/bignum-out
+#./gcd.js < datafiles/gcd-in | diff - datafiles/gcd-out
+#./primes.js < datafiles/primes-in | diff - datafiles/primes-out
+#./subsets.js | diff - datafiles/subsets-out
+#./permutations.js | diff - datafiles/permutations-out
+#./8-queens.js | diff - datafiles/8-queens-out
+#./bfs-demo.js < datafiles/grid | diff - datafiles/grid-bfs-demo-out
+#./dfs-demo.js < datafiles/grid | diff - datafiles/grid-dfs-demo-out
+#./connected.js < datafiles/connected-in | diff - datafiles/connected-out
+#./connected.js < datafiles/grid | diff - datafiles/grid-connected-out
+#./topsort.js < datafiles/grid | diff - datafiles/grid-topsort-out
+#./prim.js < datafiles/wgrid | diff - datafiles/wgrid-prim-out
+#./floyd.js < datafiles/wgrid | diff - datafiles/wgrid-floyd-out
+#./dijkstra.js < datafiles/wgrid | diff - datafiles/wgrid-dijkstra-out
+#./editbrute.js <datafiles/editbrute-in | diff - datafiles/editbrute-out
+#./stringedit.js <datafiles/stringedit-in | diff - datafiles/stringedit-out
+#./lcs.js <datafiles/stringedit-in | diff - datafiles/lcs-out
+#./substringedit.js < datafiles/substringedit-in | diff - datafiles/substringedit-out
+#./elevator.js < datafiles/elevator-in | diff - datafiles/elevator-out
+#./order.js | diff - datafiles/order-out
+#./plates.js <datafiles/plates1-in | diff - datafiles/plates1-out
+#./plates.js <datafiles/plates2-in | diff - datafiles/plates2-out
+#./plates.js <datafiles/plates3-in | diff - datafiles/plates3-out
+#./superman.js < datafiles/superin1 | diff - datafiles/superin1-out
+#./superman.js < datafiles/superin2 | diff - datafiles/superin2-out
+#./superman.js < datafiles/superin3 | diff - datafiles/superin3-out
+#./superman.js <datafiles/superin4 | diff - datafiles/superin4-out
+#./geotest.js < datafiles/geotest-in | diff - datafiles/geotest-out
+#./convex-hull.js < datafiles/chin | diff - datafiles/chin-out
+#./convex-hull.js < datafiles/chin1 | diff - datafiles/chin1-out
+#./convex-hull.js < datafiles/i.2 | diff - datafiles/i.2-out
+#./convex-hull.js < datafiles/i.4 | diff - datafiles/i.4-out
+#./convex-hull.js < datafiles/i.9 | diff - datafiles/i.9-out
+#./convex-hull.js < datafiles/i.10 | diff - datafiles/i.10-out
+#./convex-hull.js < datafiles/i.19 | diff - datafiles/i.19-out
+#./convex-hull.js < datafiles/convex-bad.10 | diff - datafiles/convex-bad.10-out
+#./convex-hull.js < datafiles/VDError-uniq.dat | diff - datafiles/VDError-uniq.dat-out
+#./convex-hull.js < datafiles/VDError.dat | diff - datafiles/VDError-uniq.dat-out
+#./triangulate.js < datafiles/tri1 | diff - datafiles/tri1-out
+#./triangulate.js < datafiles/tri2 | diff - datafiles/tri2-out
+#./triangulate.js < datafiles/tri3 | diff - datafiles/tri3-out
+#./cgtest.js < datafiles/cgtest-in | diff - datafiles/cgtest-out
+#./netflow.js < datafiles/netflow1-in | diff - datafiles/netflow1-out
+#./netflow.js < datafiles/netflow2-in | diff - datafiles/netflow2-out
+#./netflow.js < datafiles/netflow3-in | diff - datafiles/netflow3-out
+#./paths.js < datafiles/paths-graph  | diff - datafiles/paths-graph-out
+##
+##   Extra cases for "The Algorithm Design Manual"
+##
+#./partition.js < datafiles/partition-data1 | diff - datafiles/partition-data1-out
+#./partition.js < datafiles/partition-data2 | diff - datafiles/partition-data2-out
+#./biconnected.js < datafiles/grid | diff - datafiles/biconnected-grid
+#./biconnected.js < datafiles/tree | diff - datafiles/biconnected-tree
+#./biconnected.js < datafiles/art3 | diff - datafiles/biconnected-art3
+#./biconnected.js < datafiles/baase | diff - datafiles/biconnected-baase
+#./biconnected.js < datafiles/clr-graph | diff - datafiles/biconnected-clr-graph
+#./strong.js < datafiles/g-1 | diff - datafiles/strong-g-1
+#./strong.js < datafiles/g-2 | diff - datafiles/strong-g-2
+#./strong.js < datafiles/g-3 | diff - datafiles/strong-g-3
+#./strong.js < datafiles/g-4 | diff - datafiles/strong-g-4
+#./strong.js < datafiles/g-5 | diff - datafiles/strong-g-5
+#./strong.js < datafiles/strong-clr | diff - datafiles/strong-clr-out
+#./bipartite.js < datafiles/grid | diff - datafiles/bipartite-grid
+#./bipartite.js < datafiles/tree | diff - datafiles/bipartite-tree
+#./bipartite.js < datafiles/art3 | diff - datafiles/bipartite-art3
+#./topsort1.js < datafiles/grid | diff - datafiles/grid-topsort1-out
+#./matrix.js < datafiles/matrix-data1 | diff - datafiles/matrix-data1-out
+#./matrix.js < datafiles/matrix-data2 | diff - datafiles/matrix-data2-out
+#./list-demo.js < datafiles/list-in | diff - datafiles/list-out
+#./tree-demo.js < datafiles/list-in | diff - datafiles/treelist-out
+#./tree-demo.js < datafiles/t1.in | diff - datafiles/t1.out
