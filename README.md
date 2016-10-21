@@ -13,10 +13,10 @@ Will complain if there are problems
 # Completed
 
 - distance.js
+- war.js
 
 # TODO
 
-- war.js
 - name.js
 - sorting.js
 - polly.js
