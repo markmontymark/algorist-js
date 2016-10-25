@@ -1,0 +1,25 @@
+{
+  "name": "algorist-js",
+  "version": "1.0.0",
+  "description": "Algorithm Design Manual programs converted to vanilla JavaScript",
+  "main": "./test-script",
+  "scripts": {
+    "test": "./test-script",
+    "m" : "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmontymark/algorist-js.git"
+  },
+  "keywords": [
+    "algorist",
+    "solutions",
+    "javascript"
+  ],
+  "author": "Mark Koopman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markmontymark/algorist-js/issues"
+  },
+  "homepage": "https://github.com/markmontymark/algorist-js#readme"
+}

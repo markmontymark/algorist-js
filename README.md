@@ -14,10 +14,10 @@ Will complain if there are problems
 
 - distance.js
 - war.js
+- name.js
 
 # TODO
 
-- name.js
 - sorting.js
 - polly.js
 - bignum.js
