@@ -15,10 +15,10 @@ Will complain if there are problems
 - distance.js
 - war.js
 - name.js
+- sorting.js
 
 # TODO
 
-- sorting.js
 - polly.js
 - bignum.js
 - gcd.js
