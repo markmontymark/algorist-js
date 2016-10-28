@@ -5,7 +5,7 @@
 ./war.js < datafiles/war-in | diff - datafiles/war-out
 ./name.js < datafiles/name-in | diff - datafiles/name-out
 ./sorting.js | diff - datafiles/sorting-out
-#./polly.js < datafiles/polly-in | diff - datafiles/polly-out
+./polly.js < datafiles/polly-in | diff - datafiles/polly-out
 #./bignum.js < datafiles/bignum-in | diff - datafiles/bignum-out
 #./gcd.js < datafiles/gcd-in | diff - datafiles/gcd-out
 #./primes.js < datafiles/primes-in | diff - datafiles/primes-out

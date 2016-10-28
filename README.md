@@ -16,10 +16,10 @@ Will complain if there are problems
 - war.js
 - name.js
 - sorting.js
+- polly.js
 
 # TODO
 
-- polly.js
 - bignum.js
 - gcd.js
 - primes.js
